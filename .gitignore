@@ -1,2 +1,3 @@
 
 barbershop.db
+db/migrate/20160212111555_create_barbers.rb
